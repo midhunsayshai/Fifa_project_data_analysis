@@ -43,10 +43,10 @@ Seaborn
 Jupyter Notebook
 
 ****Visualizations Included**
-Bar charts for top and bottom salaries
-Distribution plots for total salary
-Countplot for preferred foot
-Additional insights from summary statistics
+1. Bar charts for top and bottom salaries.
+2. Distribution plots for total salary
+3. Countplot for preferred foot
+4. Additional insights from summary statistics
 
 **Conclusion**
 1. This project helps understand the salary structure of FIFA players and their characteristics.
@@ -57,4 +57,6 @@ Through visualization, we can quickly find trends such as:
 5. It provides a strong foundation for deeper football analytics work.
 
 Author:  Midhunkrishna P N
+
+
 Dataset source: Kaggle.
