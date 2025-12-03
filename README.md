@@ -55,3 +55,6 @@ Through visualization, we can quickly find trends such as:
 3. Overall salary distribution
 4. Dominance of right-footed players (expected trend)
 5. It provides a strong foundation for deeper football analytics work.
+
+Author:  Midhunkrishna P N
+Dataset source: Kaggle.
